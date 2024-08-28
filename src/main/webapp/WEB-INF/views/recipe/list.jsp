@@ -38,6 +38,12 @@
   .ck-content { 
 	  font-size: 12px; 
 	 }
+   .fruite-item {
+      height: 350px;
+      /* 원하는 높이로 설정 */
+      display: flex;
+      flex-direction: column;
+  }
 </style>
 </head>
 <body>
